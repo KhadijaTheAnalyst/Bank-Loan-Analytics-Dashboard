@@ -4,19 +4,19 @@
 This project involves analyzing a dataset containing information about bank loan applications. The analysis was conducted using SQL for data querying and preparation, followed by the creation of dashboards in Excel, Power BI, and Tableau to visualize the findings. The goal was to uncover trends, assess loan performance, and provide actionable insights into the bank's loan portfolio.
 
 ## Workflow
-1. SQL Analysis:
-The analysis began with SQL, where I queried the database to extract, clean, and prepare the data for further analysis.
-Key SQL queries were written to calculate metrics such as total loan amounts, average interest rates, and the distribution of loan statuses.
-The output of these queries was then exported to CSV files for use in Excel, Power BI, and Tableau.
-2. Excel Dashboard:
-Using the data exported from SQL, I created a comprehensive dashboard in Excel.
-This dashboard provides a high-level overview of key metrics, including total loan applications, funded amounts, and average debt-to-income (DTI) ratio.
-Excel's pivot tables and charts were utilized to summarize and visualize the data effectively.
-3. Power BI Report:
-The cleaned and processed data from SQL was imported into Power BI.
-Interactive dashboards were created in Power BI, allowing users to explore data on total payments, interest rates, and loan status distributions.
-The report includes filters and slicers for dynamic exploration of different loan categories, states, and purposes.
-4. Tableau Visualizations:
+### 1. SQL Analysis:
+- The analysis began with SQL, where I queried the database to extract, clean, and prepare the data for further analysis.
+- Key SQL queries were written to calculate metrics such as total loan amounts, average interest rates, and the distribution of loan statuses.
+- The output of these queries was then exported to CSV files for use in Excel, Power BI, and Tableau.
+### 2. Excel Dashboard:
+- Using the data exported from SQL, I created a comprehensive dashboard in Excel.
+- This dashboard provides a high-level overview of key metrics, including total loan applications, funded amounts, and average debt-to-income (DTI) ratio.
+- Excel's pivot tables and charts were utilized to summarize and visualize the data effectively.
+### 3. Power BI Report:
+- The cleaned and processed data from SQL was imported into Power BI.
+- Interactive dashboards were created in Power BI, allowing users to explore data on total payments, interest rates, and loan status distributions.
+- The report includes filters and slicers for dynamic exploration of different loan categories, states, and purposes.
+### 4. Tableau Visualizations:
 Tableau was used to create advanced visualizations and perform trend analysis on the loan data.
 Visualizations include month-over-month loan application trends, loan distribution by state, and a detailed breakdown of loan purposes.
 The Tableau workbook provides an intuitive way to spot patterns and anomalies in the data.
