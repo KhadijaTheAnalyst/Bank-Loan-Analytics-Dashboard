@@ -67,10 +67,10 @@ The dataset used in this project includes the following columns:
 - **Loan Purpose Analysis:** The different purposes for which loans were issued (e.g., debt consolidation, home improvement).
   
 ## How to Use the Project
-- **SQL Scripts:** The SQL queries used for data extraction and analysis are provided in the SQL/ folder.
-- **Excel Dashboard:** The Excel file in the Excel/ folder contains a dashboard summarizing the key metrics and trends identified in the dataset.
-- **Power BI Report:** The Power BI file in the PowerBI/ folder provides interactive visualizations, allowing you to explore the data in more depth.
-- **Tableau Workbook:** The Tableau workbook in the Tableau/ folder includes detailed visualizations and trend analysis. If you have Tableau Desktop installed, you can open the .twbx file to explore the visualizations.
+- **SQL Scripts:** The SQL queries used for data extraction and analysis are provided in the SQL file.
+- **Excel Dashboard:** The Excel file contains a dashboard summarizing the key metrics and trends identified in the dataset.
+- **Power BI Report:** The Power BI file provides interactive visualizations, allowing you to explore the data in more depth.
+- **Tableau Workbook:** The Tableau workbook includes detailed visualizations and trend analysis. If you have Tableau Desktop installed, you can open the .twbx file to explore the visualizations.
   
 ## Conclusion
 This project provides a comprehensive analysis of the bank's loan portfolio, using SQL for data preparation and Excel, Power BI, and Tableau for visualization. The dashboards and reports created offer valuable insights into loan performance, helping to identify trends, risks, and opportunities within the loan data.
